@@ -1,4 +1,4 @@
-# Chapter 6 - 데이터 타입
+# Chapter-6 데이터 타입
 
 ## Infinity를 정의하는 두 가지 방법
 
